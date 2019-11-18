@@ -1,3 +1,0 @@
-#Ipython Notebook
-.ipynb_checkpoints
-.idea
